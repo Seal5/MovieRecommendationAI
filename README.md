@@ -1,8 +1,10 @@
 # Movie Recommendation System
 • Crafted a movie recommendation system using Collaborative Filtering and Content-Based Filtering
 techniques, leveraging the Surprise library for model builds
+
 • Measured model performance utilizing performance measures such as RMSE (Root Mean Squared Error) and
 MAE (Mean Absolute Error) to ensure accurate recommendations
+
 • Deployed the model using AWS SageMaker, using its scalability for an efficient movie recommendation servic
 
 ## Setup
