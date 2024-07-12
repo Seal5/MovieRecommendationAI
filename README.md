@@ -7,7 +7,7 @@ MAE (Mean Absolute Error) to ensure accurate recommendations
 
 • Deployed the model using AWS SageMaker, using its scalability for an efficient movie recommendation servic
 
-## Setup
+## Instructions on Running This Locally
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your data to the `data/` directory
