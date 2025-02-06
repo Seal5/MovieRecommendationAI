@@ -29,7 +29,3 @@ MovieRecommendationAI is a content-based movie recommendation system built with 
     ```bash
     pip install -r requirements.txt
     ```
-    *If a `requirements.txt` is not provided, install manually:*
-    ```bash
-    pip install numpy pandas scikit-learn matplotlib
-    ```
