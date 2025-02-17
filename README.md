@@ -29,3 +29,14 @@ MovieRecommendationAI is a content-based movie recommendation system built with 
     ```bash
     pip install -r requirements.txt
     ```
+
+## Usage
+
+1. **Run the Jupyter notebook:**
+   - Navigate to the `notebooks` directory
+   - Run `Main.ipynb` to train the model and generate pickle files
+
+2. **Launch the Streamlit application:**
+    ```bash
+    streamlit run src/app.py
+    ```
